@@ -5,7 +5,7 @@
  * User : theamabile@gmail.com
  * Time : 20:05 - 20:09
  */
-package 백준.재귀.팩토리얼;
+package 백준.재귀.팩토리얼10872;
 
 import java.util.Scanner;
 

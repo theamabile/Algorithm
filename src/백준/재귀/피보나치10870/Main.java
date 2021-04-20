@@ -5,7 +5,7 @@
  * User : theamabile@gmail.com
  * Time : 20:14-19
  */
-package 백준.재귀.피보나치;
+package 백준.재귀.피보나치10870;
 
 import java.util.Scanner;
 
