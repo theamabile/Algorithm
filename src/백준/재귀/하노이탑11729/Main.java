@@ -4,7 +4,7 @@
  * Date : 2021. 4. 20.
  * User : theamabile@gmail.com
  */
-package 백준.재귀.하노이탑;
+package 백준.재귀.하노이탑11729;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
