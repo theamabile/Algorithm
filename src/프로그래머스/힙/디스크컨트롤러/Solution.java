@@ -1,5 +1,5 @@
 /**
- * KaKao Programmers / BaekJoon
+ * KaKao Programmers
  * Category : 프로그래머스.힙.디스크컨트롤러
  * Date : 2021. 6. 26.
  * User : theamabile@gmail.com
